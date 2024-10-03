@@ -6,9 +6,9 @@
 
 ## Set Up Environment - Shell/Terminal
 
-mkdir proyek_analisis_data
+mkdir submission
 
-cd proyek_analisis_data
+cd submission
 
 pipenv install
 
@@ -19,3 +19,4 @@ pip install -r requirements.txt
 ## Run Streamlit app
 
 streamlit run final_dashboard/dashboard.py
+
