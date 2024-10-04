@@ -6,7 +6,7 @@
 
 ## Set Up Environment - Shell/Terminal
 
-mkdir submission
+git clone https://github.com/dindahana14/submission.git
 
 cd submission
 
