@@ -7,7 +7,7 @@
 ## Cara Menjalankan Dashboard Streamlit
 
 1. Download file zip dan extract atau git clone https://github.com/dindahana14/submission.git
-2. Masuk ke dalam folder yang sudah di extract dengan nama ubmission:
+2. Masuk ke dalam folder yang sudah di extract dengan nama submission:
     ```bash
     cd submission
     ```
